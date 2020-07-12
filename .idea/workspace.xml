@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1e90227-ff76-4547-8a47-899fa6891147" name="Default Changelist" comment="" />
+    <list default="true" id="c1e90227-ff76-4547-8a47-899fa6891147" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/checkimport.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/checkimport.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +19,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eZsYHT1OJrjWQXE28X4bQVFiLz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -32,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_001">
+  <component name="RunManager" selected="Python.checkimport">
     <configuration name="Config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="api-automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_001" />
         <item itemvalue="Python.checkimport" />
+        <item itemvalue="Python.test_001" />
         <item itemvalue="Python.Config" />
       </list>
     </recent_temporary>
@@ -116,5 +125,16 @@
       <updated>1594540494419</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
