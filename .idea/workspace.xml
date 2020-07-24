@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e90227-ff76-4547-8a47-899fa6891147" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/255a5a23-2018-4c29-bcab-73d40095ede7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/c988caaf-c4f5-4984-958d-e199a6026b19-testsuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utility/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/checkimport.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/checkimport.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +27,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts/test_001.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\framework_practicsse\apiautomation\utility" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.checkimport">
+  <component name="RunManager" selected="Python tests.pytest in test_001.py">
     <configuration name="Config" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="api-automation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,10 +111,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest in test_001.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="api-automation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Akhilesh\PycharmProjects\API_Automation\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/scripts/test_001.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.checkimport" />
+      <item itemvalue="Python.Config" />
+      <item itemvalue="Python.test_001" />
+      <item itemvalue="Python tests.pytest in test_001.py" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.checkimport" />
         <item itemvalue="Python.test_001" />
+        <item itemvalue="Python.checkimport" />
         <item itemvalue="Python.Config" />
       </list>
     </recent_temporary>
@@ -124,6 +151,14 @@
       <option name="presentableId" value="Default" />
       <updated>1594540494419</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updating path, resolve issue module not found error. add script in pytest format add reporting, add logger function in helper">
+      <created>1595575364636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595575364636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,10 +166,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updating path, resolve issue module not found error. add script in pytest format add reporting, add logger function in helper" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updating path, resolve issue module not found error. add script in pytest format add reporting, add logger function in helper" />
   </component>
 </project>
