@@ -1,3 +1,6 @@
+import sys
+sys.path.append('G:\\framework_practicsse\\apiautomation')
+print(sys.path)
 from helpers import crudAPI
 from utility import Config
 import json
@@ -5,8 +8,7 @@ import jsonpath
 import time
 
 
-#def importantFunction():
-#	print("This is one of the important Function. I have used.")
+
 purl = Config.readConfigData("APIDetails", "get_url")
 
 
